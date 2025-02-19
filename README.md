@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @rustyworks (Tristanto)
 - 👀 I’m interested in Web Developing, System Programming, Cloud Computing.
 - 🐍 My Python webstack are Flask
-- 🦀 Recently I'm learning about Rust
-- 💻 I'm the owner of rusty.works
 - 📫 Reach me at tristantokurniawanATgmailDOTcom
 <!---
 - 💞️ I’m looking to collaborate on ...
