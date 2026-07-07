@@ -6,6 +6,7 @@
 #### What technology that I use
 - text editor: vim - 8.2 (specific version) with tmux
 - terminal: wezterm
+- shell: bash
 - operating system: linux (debian derivative like mint, ubuntu, or debian itself)
 - theme / color scheme: self-create TempleOS, Dracula, self-create Final Fantasy VIII dialog box
 - programming language: Python mainly. But willing to learn Rust if have opportunity
